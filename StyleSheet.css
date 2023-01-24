@@ -1,0 +1,82 @@
+﻿body {
+    background-color: darkgrey;
+}
+h1 {
+    text-align: center;
+    color:   black;
+    text-transform: capitalize;
+    text-shadow: 0,5px 0,5px;
+    font-size: 80px;
+    border-color: aliceblue;
+    border-block: double;
+    font-family:  'Times New Roman', Times, serif;
+}
+button{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    border-block: solid;
+    background-color: slategrey;
+    width: 200px;
+    cursor:pointer;
+}
+.MarvelButton {
+    margin-right: 630px;
+    margin-left: 20px;
+    background-color: darkgoldenrod;
+}
+.MarvelButton:hover {
+    background-color: black;
+    border-color: darkgoldenrod;
+    color: darkgoldenrod;
+}
+    .MarvelButton:active {
+        background-color: darkgoldenrod;
+        border-color: black;
+        color: black;
+    }
+.OtherButton {
+margin-right: 600px;
+background-color: cadetblue;
+}
+    .OtherButton:hover {
+        background-color: black;
+        border-color: cadetblue;
+        color: cadetblue;
+    }
+    .OtherButton:active {
+        background-color: cadetblue;
+        border-color: black;
+        color: black;
+    }
+
+.DCButton {
+    background-color: darkslateblue;
+}
+    .DCButton:hover {
+        background-color: black;
+        border-color: darkslateblue;
+        color: darkslateblue;
+    }
+    .DCButton:active {
+        background-color: darkslateblue;
+        border-color: black;
+        color: black;
+    }
+
+img{
+    margin-top:60px;
+}
+.Bejelentkezésbutton {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue;
+    border-color: black;
+}
+.Login {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue;
+    font-size:small;
+    border-color:black;
+}
